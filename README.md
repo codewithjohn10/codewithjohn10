@@ -2,8 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-codewithjohn10-black?logo=github)](https://github.com/codewithjohn10)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=firefox)](https://codewithjohn10.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](#)
+
 
 ---
 
@@ -37,34 +36,6 @@ I love mentoring developers, optimizing performance, and implementing modern arc
 **Team Workflow**  
 > Agile/Scrum Methodologies, Cross-Functional Collaboration, Version Release Management
 
----
-
-### 💼 Professional Experience
-
-**💻 Laravel Developer (Freelance / Contract – Remote)**  
-📆 *Jan 2022 – Present*  
-- Designed and maintained Laravel applications for **real estate**, **e-commerce**, and **lottery systems**.  
-- Built RESTful APIs for **MPESA**, **PayPal**, and internal tools.  
-- Integrated **CI/CD pipelines** using GitHub Actions and Docker.  
-- Mentored junior developers in testing, Git workflows, and clean code.  
-- Improved MySQL query performance by **40%** through indexing and optimization.  
-- Implemented **secure authentication and authorization** modules (OWASP compliant).  
-
-**🌐 Full Stack Developer | Ezonna Ventures**  
-📆 *Aug 2021 – Dec 2022*  
-- Modernized legacy PHP apps using **Laravel** and **CakePHP 3**.  
-- Developed responsive UIs with **Blade**, **Bootstrap**, and **jQuery**.  
-- Designed optimized database schemas and automated image processing.  
-- Managed hosting, **CPanel**, and version-controlled deployments.  
-
----
-
-### 🎓 Education
-
-**BSc Economics & Statistics** — Egerton University (2022)  
-**High School Education** — Kiambu High School (2016)
-
----
 
 ### 🌱 Currently Exploring
 
